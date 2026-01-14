@@ -5,11 +5,11 @@ A three-tab IBM Cognos Analytics dashboard analysing developer survey data to id
   •	Languages & Databases: Top 10 lists visualised via Bar and Column charts.
   •	Platforms: A Word Cloud highlighting dominant infrastructure.
   •	Web Frameworks: A Hierarchy Bubble chart showing the current ecosystem.
-2. Future Technology Trend
+3. Future Technology Trend
   •	Desired Tech: Top 10 Languages and Databases developers want to learn (Bar/Column).
   •	Growth Platforms: A Tree Map identifying high-interest future platforms.
   •	Framework Aspirations: Hierarchy Bubble chart for upcoming web trends.
-3. Demographics
+4. Demographics
   •	Age & Education: Respondent distribution via Pie and Line charts.
   •	Global Reach: A Map chart visualising respondent density by country.
   •	Segmentation: A Stacked Bar chart classifying Age groups by Education level.
@@ -21,4 +21,4 @@ A three-tab IBM Cognos Analytics dashboard analysing developer survey data to id
   •	Data Source: [survey_data_updated.csv](https://1drv.ms/x/c/8cf74ad5cb70f917/IQDUmvVD9UprTLD7ZOXti2A4AV7AGiZT_QyySVRtD8gH0UY?e=9bp3zf)
   •	Tool: IBM Cognos Analytics
   •	Visuals: Bar, Column, Pie, Map, Tree Map, Word Cloud, and Hierarchy Bubble charts.
-[👉 Click here to view the Full Dashboard PDF](https://1drv.ms/b/c/8cf74ad5cb70f917/IQBIbw-rbLQ3RrjfjCTCDp8UAWCjCG8Et4gj56b-ez_lUgs?e=cEtoXx)
+            [👉 Click here to view the Full Dashboard PDF](https://1drv.ms/b/c/8cf74ad5cb70f917/IQBIbw-rbLQ3RrjfjCTCDp8UAWCjCG8Et4gj56b-ez_lUgs?e=cEtoXx)
